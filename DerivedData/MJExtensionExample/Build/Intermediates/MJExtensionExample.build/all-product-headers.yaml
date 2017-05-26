@@ -1,0 +1,83 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/DerivedData/MJExtensionExample/Build/Products/Debug-iphonesimulator/MJExtension.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MJExtension-Swift.h",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/DerivedData/MJExtensionExample/Build/Products/Debug-iphonesimulator/MJExtension.framework/Headers/MJExtension-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJExtension.h",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/MJExtension/MJExtension.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJExtensionConst.h",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/MJExtension/MJExtensionConst.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJFoundation.h",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/MJExtension/MJFoundation.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJProperty.h",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/MJExtension/MJProperty.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJPropertyKey.h",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/MJExtension/MJPropertyKey.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJPropertyType.h",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/MJExtension/MJPropertyType.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJClass.h",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/MJExtension/NSObject+MJClass.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJCoding.h",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/MJExtension/NSObject+MJCoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJKeyValue.h",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/MJExtension/NSObject+MJKeyValue.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJProperty.h",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/MJExtension/NSObject+MJProperty.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+MJExtension.h",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/MJExtension/NSString+MJExtension.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/DerivedData/MJExtensionExample/Build/Products/Debug-iphonesimulator/MJExtension.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/wangjie/Desktop/\u7EC3\u4E60Demo/\u5C0F\u7801\u54E5iOS-Demo/UI\u57FA\u7840/Day08/GitHub/MJExtension/DerivedData/MJExtensionExample/Build/Intermediates/MJExtensionExample.build/Debug-iphonesimulator/MJExtension.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

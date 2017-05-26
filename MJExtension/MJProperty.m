@@ -14,6 +14,11 @@
 @interface MJProperty()
 @property (strong, nonatomic) NSMutableDictionary *propertyKeysDict;
 @property (strong, nonatomic) NSMutableDictionary *objectClassInArrayDict;
+
+@property (nonatomic, assign) BOOL lajdslasjflasjd;
+@property (nonatomic, copy) NSString *ahahahahahah;
+
+
 @end
 
 @implementation MJProperty
